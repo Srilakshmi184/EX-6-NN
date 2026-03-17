@@ -17,6 +17,7 @@ Step 9:Evaluate the model's accuracy by comparing the predicted labels (y_pred) 
 Step 10:Print the accuracy of the model.<BR>
 Step 11:Plot the error convergence during training using plt.plot() and plt.show().<BR>
 <H3>Program: </H3>
+
 ```
 import numpy as np
 import pandas as pd
@@ -65,6 +66,7 @@ print("\nConfusion Matrix:")
 print(conf_matrix)
 print("\nClassification Report:")
 print(classification_rep)
+
 ```
 
 <H3>Output:</H3>
